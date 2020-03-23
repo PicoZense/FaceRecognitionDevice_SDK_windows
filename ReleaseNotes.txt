@@ -1,0 +1,8 @@
+﻿V3.0.0.7
+1. PS2  DCAM305 SDK Optimize code
+
+V3.0.0.6
+1. PS2  DCAM305 SDK fix memory leak
+
+V3.0.0.5
+1. PS2  DCAM305 SDK
